@@ -9,5 +9,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
-
+	
+	<!--Navigation Drawer  -->
+	<string name="cell_note">笔记</string>
+	<string name="cell_trash">垃圾箱</string>
+	<string name="cell_settings">设置</string>
 </resources>
